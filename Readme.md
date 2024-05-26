@@ -2,7 +2,7 @@
 
 AdBypasser is a Streamlit app that allows you to bypass AdLinkFly websites and get the original link in just a few clicks.
 
-This app was created by [Kaneki](https://github.com/Kevinnadar22) and can be used for free.
+This app was created by [Kaneki](https://github.com/Kaneki1416) and can be used for free.
 
 ## Features
 
